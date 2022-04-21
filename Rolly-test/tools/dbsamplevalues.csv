@@ -1,0 +1,27 @@
+Gender,Ethnicity,Industry,Religion,Income range,Education,Marital status,Categories,Regions
+Male,Asian,Agriculture,Buddhist,"$0 - $20,000",Some High School,Single,Politics,Asia
+Female,Black or African American,Administration,Christian,"$20,000 - $40,000",High School Diploma,Married,Music,Oceania
+,White,Business,Muslim,"$40,000 - $60,000",Some College/University,Widowed,Food,Africa
+,Native,Construction,Hindu,"$60,000 - $80,000",College Diploma,Other,Business,Europe
+,Hispanic,Education,Sikh,"$80,000 - $100,000",Bachelor's Degree,,Technology,North America
+,Mixed-race,Government,Jewish,"$100,000 - $130,000",Master's Degree,,Education,South America
+,Other,Manufacturing,Atheist,"$130,000 - $180,000",PhD,,Nature,
+,,Forestry,Agnostic,"$180,000 - $230,000",,,Art,
+,,Healthcare ,Other,"$230,000+",,,Sports,
+,,Military,,,,,,
+,,Science,,,,,,
+,,Law,,,,,,
+,,Music & Arts,,,,,,
+,,Retail,,,,,,
+,,Technology,,,,,,
+,,Student,,,,,,
+,,Food Service,,,,,,
+,,Transportation,,,,,,
+,,Personal Services,,,,,,
+,,Homemaker,,,,,,
+,,Hospitality & Tourism,,,,,,
+,,Unemployed,,,,,,
+,,Religious Ministry,,,,,,
+,,Engineering,,,,,,
+,,Retired,,,,,,
+,,Other,,,,,,
